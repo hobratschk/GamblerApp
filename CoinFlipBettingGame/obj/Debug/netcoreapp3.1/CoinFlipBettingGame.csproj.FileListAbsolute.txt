@@ -1,0 +1,13 @@
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\bin\Debug\netcoreapp3.1\CoinFlipBettingGame.exe
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\bin\Debug\netcoreapp3.1\CoinFlipBettingGame.deps.json
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\bin\Debug\netcoreapp3.1\CoinFlipBettingGame.runtimeconfig.json
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\bin\Debug\netcoreapp3.1\CoinFlipBettingGame.runtimeconfig.dev.json
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\bin\Debug\netcoreapp3.1\CoinFlipBettingGame.dll
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\bin\Debug\netcoreapp3.1\CoinFlipBettingGame.pdb
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\obj\Debug\netcoreapp3.1\CoinFlipBettingGame.csprojAssemblyReference.cache
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\obj\Debug\netcoreapp3.1\CoinFlipBettingGame.AssemblyInfoInputs.cache
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\obj\Debug\netcoreapp3.1\CoinFlipBettingGame.AssemblyInfo.cs
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\obj\Debug\netcoreapp3.1\CoinFlipBettingGame.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\obj\Debug\netcoreapp3.1\CoinFlipBettingGame.dll
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\obj\Debug\netcoreapp3.1\CoinFlipBettingGame.pdb
+C:\Users\Blake\source\repos\CoinFlipBettingGame\CoinFlipBettingGame\obj\Debug\netcoreapp3.1\CoinFlipBettingGame.genruntimeconfig.cache
